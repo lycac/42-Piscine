@@ -1,3 +1,3 @@
 # 42-Piscine
 
-Disclaimer: Still fixing some codes. So please, double check :)
+Disclaimer: Still fixing some solutions. So please, double check :)
